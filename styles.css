@@ -7,12 +7,22 @@
     grid-gap: 3px;
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: 40px 200px 40px;
+
 }
 
-.header {}
+.header {
+    background-color: #deb135;
+}
 
-.menu {}
+.menu {
+    background-color: #de6235;
+}
 
-.content {}
+.content {
+    background-color: #35a0de;
+}
 
-.footer {}
+.footer {
+    background-color: #deb135;
+
+}
