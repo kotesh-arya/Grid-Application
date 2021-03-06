@@ -71,3 +71,16 @@ img{
     width: 60px;
     border-radius: 50%;
 }
+@media (max-width:909px){
+    main{
+        grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(5, min-content);
+    grid-template-areas:
+    "d d "
+    "j j"
+     "k k"
+    "h h"
+     "p p"
+    ;
+    }
+}
