@@ -1,7 +1,9 @@
 
 body{
     background-color: #ECF2F8;
-    font-family: 'Oswald', sans-serif;}
+    font-family: 'Oswald', sans-serif;
+    font-size: larger;
+}
 :root{
     --light-color:white;
     --dark-color:black;
